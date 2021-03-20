@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="1" id="45fd6e91-df76-497f-b642-33dc3d5f6a5a">Mox Ruby</card>
+    <card qty="1" id="aced2c55-7543-4076-bcdd-36c4d649b8ae">Mox Emerald</card>
+    <card qty="1" id="880711b0-da06-4c4f-aa4e-1be58fc0bc67">Sol Ring</card>
+    <card qty="1" id="5f6927e1-c580-483a-8e2a-6e2deb74800e">Mox Jet</card>
+    <card qty="1" id="ed0216a0-c5c9-4a99-b869-53e4d0256326">Mox Pearl</card>
+    <card qty="1" id="ea1feac0-d3a7-45eb-9719-1cdaf51ea0b6">Mox Sapphire</card>
+    <card qty="1" id="316caa4e-a53a-460b-978c-5f0fba7bc549">Trinisphere</card>
+    <card qty="1" id="e472d4f5-add4-4de3-8718-31a47a35277c">Thorn of Amethyst</card>
+    <card qty="1" id="28ececd4-2a6d-49dd-bc52-4fdb1e0b1dba">Mana Crypt</card>
+    <card qty="1" id="bd8fa327-dd41-4737-8f19-2cf5eb1f7cdd">Black Lotus</card>
+    <card qty="1" id="4a894dab-1beb-4418-be64-34c6c0c54361">Chalice of the Void</card>
+    <card qty="2" id="f0bb1a5c-0f59-4951-827f-fe9df968232d">Eldrazi Displacer</card>
+    <card qty="4" id="9ad94e39-0aac-46bb-a7f2-bd88c537cb9c">Glowrider</card>
+    <card qty="4" id="bffc360e-db41-48f3-9365-680d55046e04">Thought-Knot Seer</card>
+    <card qty="4" id="824423ff-6441-4be6-b754-810adf9ca6a2">Thalia, Guardian of Thraben</card>
+    <card qty="4" id="52d4b652-a830-4fd4-94bb-c17c227f2928">Reality Smasher</card>
+    <card qty="4" id="7c7bec21-61b0-4e72-848b-82f38e1910e0">Phyrexian Revoker</card>
+    <card qty="4" id="f2ca07ab-32e9-477c-a263-721a03f778ff">Once Upon a Time</card>
+    <card qty="1" id="e8f7a850-e049-48a0-95ac-afdac6e204e5">Strip Mine</card>
+    <card qty="2" id="93f7c880-9bae-4d29-b7b6-b6be6b2ffa89">Horizon Canopy</card>
+    <card qty="4" id="0e9aeaa8-9a75-4719-992f-cbb316f72175">Savannah</card>
+    <card qty="4" id="315924c9-77e3-405b-9bbf-852ed563c6e3">Eldrazi Temple</card>
+    <card qty="4" id="6aa14e39-2550-4fbe-9fd3-a5923a7f78c8">Wasteland</card>
+    <card qty="4" id="1381c8f1-a292-4bdf-b20c-a5c2a169ee84">Cavern of Souls</card>
+    <card qty="4" id="d34b1faa-8a1c-4bdd-9cf3-8b51c018f353">Ancient Tomb</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="2" id="4d84ac44-01d8-415e-af69-7c608ac8ae20">Kataki, War's Wage</card>
+    <card qty="2" id="6072d9b0-d3c7-46f4-bd24-095bb13c4dea">Deafening Silence</card>
+    <card qty="3" id="057d2410-30d3-4b7a-9dc3-f2512c1cf31c">Swords to Plowshares</card>
+    <card qty="4" id="d51bacdd-040e-45f7-9256-85f93801a10e">Containment Priest</card>
+    <card qty="4" id="085107a2-c1ec-473c-81d8-23e5a7197776">Collector Ouphe</card>
+  </section>
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

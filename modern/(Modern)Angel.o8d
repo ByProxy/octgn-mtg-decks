@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="1" id="5a8279b9-c1dd-43db-a01b-89567bb43374">Plains</card>
+    <card qty="1" id="b11c9a26-3234-480b-94cf-49f15f2b0002">Plains</card>
+    <card qty="1" id="9591fd15-78d9-4089-a075-031ab2affd2d">Plains</card>
+    <card qty="1" id="5665190e-ea2a-498e-9c4f-f0bc514bd80c">Plains</card>
+    <card qty="1" id="6b362e9b-8d25-405e-b70e-f3c9533627a7">Plains</card>
+    <card qty="1" id="e9646663-ba93-446b-ad83-71503924e7f8">Plains</card>
+    <card qty="1" id="bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7">Plains</card>
+    <card qty="1" id="0a143c32-d78b-40ee-8d2b-a8ce303162d6">Plains</card>
+    <card qty="1" id="cc3db531-3f21-49a2-8aeb-d98b7db94397">Plains</card>
+    <card qty="1" id="9f015fe9-c7fa-4503-b0cc-c0e7f098882f">Plains</card>
+    <card qty="1" id="c20ec10e-78fc-49dc-a112-7863a34056b1">Plains</card>
+    <card qty="1" id="58a735c9-08a1-4950-bf8c-ed1cfba76765">Plains</card>
+    <card qty="1" id="5d918248-85ff-4fea-ac91-aa5466dd2829">Plains</card>
+    <card qty="4" id="5646bb65-3174-4ad5-8a44-9d36a5f45bfc">Savannah</card>
+    <card qty="1" id="d949485e-5188-49f4-9d30-5e135532d445">Forest</card>
+    <card qty="1" id="52c21f91-6679-4adb-baf2-b06cf505150c">Forest</card>
+    <card qty="1" id="5131ab8d-c884-4430-8059-9e3e1d16c747">Forest</card>
+    <card qty="1" id="146b803f-0455-497b-8362-03da2547070d">Forest</card>
+    <card qty="1" id="3cfbcefd-8b2d-4b9e-a11a-18274c3a8dd2">Forest</card>
+    <card qty="1" id="f0ca4b9f-4ee6-4ad8-a95f-326ada9de3cd">Forest</card>
+    <card qty="1" id="e2ef9b74-481b-424b-8e33-f0b910f66370">Forest</card>
+    <card qty="1" id="e086a062-d39b-4e2a-bde0-f4d6d1797a5f">Indestructibility</card>
+    <card qty="3" id="08b9c400-dc8f-4fe6-a868-fdf0d247086a">Trollhide</card>
+    <card qty="1" id="feccd0e2-fae6-4ced-acdf-4252ed5c56e7">Sigarda, Host of Herons</card>
+    <card qty="1" id="29008990-495d-4706-9c8f-630f46b741c4">Divine Favor</card>
+    <card qty="2" id="9067f035-3437-4c5c-bae9-d3c9001a3411">Serra Angel</card>
+    <card qty="2" id="598ebb91-57d6-4800-8931-4d0016e9fec1">Auramancer</card>
+    <card qty="1" id="8690166f-be52-48c4-9877-630b3f3dc614">Congregate</card>
+    <card qty="2" id="da15100b-2934-438c-9917-84ad8bdc4181">Voracious Wurm</card>
+    <card qty="2" id="349e8190-15fd-44ed-a821-9a5f3615d2d9">Angelic Accord</card>
+    <card qty="1" id="e1f51ff4-9b5c-4e26-b811-4000a4c8f965">Staff of the Sun Magus</card>
+    <card qty="3" id="3d34551e-36a4-49ea-9d2a-4c72575fe06a">Pacifism</card>
+    <card qty="1" id="a5f35559-f222-46d7-89e9-a5f51070db8f">Hunt the Weak</card>
+    <card qty="2" id="4c8ff6cd-e3ac-4024-aacb-86f7e1f43ba0">Brave the Elements</card>
+    <card qty="2" id="b7fa2bb8-005f-4a34-820e-9bfee7268691">Fortify</card>
+    <card qty="2" id="15c34447-b0f4-4fcc-b557-23c92850b31b">Archangel of Thune</card>
+    <card qty="2" id="85d2ecc7-4a49-48f1-9036-6c3f0f0296c3">Banisher Priest</card>
+    <card qty="2" id="31b83ffd-bd08-48c6-98a3-811abc203f60">Soulmender</card>
+    <card qty="2" id="78802af4-46b5-4bac-8cdf-5b77d0b19895">Capashen Knight</card>
+    <card qty="1" id="88326f60-1c86-4aca-8e6a-b1882a048635">Strionic Resonator</card>
+    <card qty="2" id="d70a8ff1-f0cf-4aef-ad90-06902f98d434">Pillarfield Ox</card>
+    <card qty="1" id="5c897e5e-bb83-4950-b7ae-e69fdee5d5e5">Elixir of Immortality</card>
+    <card qty="2" id="93cf5fb3-bb41-4efa-9721-2c2d169b05cd">Dawnstrike Paladin</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="10" id="581e92be-a8b6-47b0-8051-f7d31fd77cc1">Angel</card>
+  </section>
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

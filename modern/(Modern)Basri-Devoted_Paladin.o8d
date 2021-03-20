@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="4" id="ce2bc7ad-458d-445e-a0a9-7897b596fdd0">Adherent of Hope</card>
+    <card qty="3" id="9c977c67-b0c0-40b0-b129-28de094aaf40">Anointed Chorister</card>
+    <card qty="2" id="c5b57247-81cc-44ec-b5a9-0702111a98a8">Aven Gagglemaster</card>
+    <card qty="3" id="08d1dd97-2675-4953-ab95-d47d23abfe05">Basri's Acolyte</card>
+    <card qty="1" id="74b1eae0-1bf8-4922-a9e3-45c01ece9005">Basri's Lieutenant</card>
+    <card qty="4" id="31a500e6-01f5-4a3a-8839-68b9b515e919">Makeshift Battalion</card>
+    <card qty="1" id="2a174587-d964-48b3-8f69-fa576c1b8bba">Perimeter Sergeant</card>
+    <card qty="3" id="5ba81e67-8fa5-441c-bf14-2d75c168a617">Sigiled Contender</card>
+    <card qty="1" id="1f44b96a-8498-414a-a4ac-54c80dfa9f23">Speaker of the Heavens</card>
+    <card qty="3" id="3b43d7bc-173c-41eb-bba9-a9d94dcfc5fa">Tempered Veteran</card>
+    <card qty="1" id="2688b45d-9d74-4d9f-9a63-29c82b48d64f">Basri, Devoted Paladin</card>
+    <card qty="3" id="5c62ea13-9bd5-46ce-a861-68cf9a2c6f8c">Fight as One</card>
+    <card qty="2" id="a90c1ad0-83bd-471c-8d4c-e65bc2abaa18">Swift Response</card>
+    <card qty="2" id="577657ed-162f-4104-b0af-ee9733e90f20">Basri's Aegis</card>
+    <card qty="2" id="d35bad68-e1a9-4cdc-bd68-cee4ccebef6c">Banishing Light</card>
+    <card qty="1" id="f090db87-b7a9-4c88-a211-495b27ae37c9">Plains</card>
+    <card qty="1" id="91348123-e2d0-4acb-ab4e-ec17652b7853">Plains</card>
+    <card qty="1" id="8410f6f6-4557-4102-9f84-fe208f7118e4">Plains</card>
+    <card qty="1" id="6b362e9b-8d25-405e-b70e-f3c9533627a7">Plains</card>
+    <card qty="1" id="1d7dba1c-a702-43c0-8fca-e47bbad4a00f">Plains</card>
+    <card qty="1" id="2ef285a1-dbd0-4e41-9f04-a9120a0421f7">Plains</card>
+    <card qty="1" id="9ca16bd5-e261-4229-a92d-7cd55654dd11">Plains</card>
+    <card qty="1" id="bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7">Plains</card>
+    <card qty="1" id="36446ad6-8bf0-4e4e-bbab-379c22dbf4f6">Plains</card>
+    <card qty="1" id="e9646663-ba93-446b-ad83-71503924e7f8">Plains</card>
+    <card qty="1" id="5d918248-85ff-4fea-ac91-aa5466dd2829">Plains</card>
+    <card qty="1" id="ae92e656-6c9d-48c3-a238-5a11c2c62ec8">Plains</card>
+    <card qty="1" id="5665190e-ea2a-498e-9c4f-f0bc514bd80c">Plains</card>
+    <card qty="1" id="9591fd15-78d9-4089-a075-031ab2affd2d">Plains</card>
+    <card qty="1" id="83fbc748-fe45-4b06-b2ec-71087f7225ec">Plains</card>
+    <card qty="1" id="a8ab8c09-851d-4f38-8d30-a61fca7629be">Plains</card>
+    <card qty="1" id="f944d762-b01c-4e7c-a539-434cbf99c504">Plains</card>
+    <card qty="1" id="8b74c845-494d-42de-99df-02d07047a3c5">Plains</card>
+    <card qty="1" id="5414daea-c5c2-46e2-bfd7-de96cc7bbfab">Plains</card>
+    <card qty="1" id="418446b3-74e4-42a2-b6fd-bea74ee8c696">Plains</card>
+    <card qty="1" id="3efd25bb-853c-47fd-822c-02ca6fdc8bcf">Plains</card>
+    <card qty="1" id="cc3db531-3f21-49a2-8aeb-d98b7db94397">Plains</card>
+    <card qty="1" id="9f015fe9-c7fa-4503-b0cc-c0e7f098882f">Plains</card>
+    <card qty="1" id="db68b6a3-10e5-42d1-9325-94a4a821782a">Plains</card>
+    <card qty="1" id="2f6778ff-6c1c-498a-bbfa-46c35b77a72a">Plains</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

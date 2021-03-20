@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="4" id="6982a82c-dd32-40d2-8dd2-ec92d0fc6c2d">Phyrexian Revoker</card>
+    <card qty="4" id="a47357be-9e4b-4581-94f5-0574754e2977">Stonecoil Serpent</card>
+    <card qty="1" id="683a5707-cddb-494d-9b41-51b4584ded69">Lodestone Golem</card>
+    <card qty="4" id="1fa48620-4c3d-4f75-be1f-c12c4aa59f51">Golos, Tireless Pilgrim</card>
+    <card qty="1" id="45fd6e91-df76-497f-b642-33dc3d5f6a5a">Mox Ruby</card>
+    <card qty="1" id="ea1feac0-d3a7-45eb-9719-1cdaf51ea0b6">Mox Sapphire</card>
+    <card qty="1" id="ed0216a0-c5c9-4a99-b869-53e4d0256326">Mox Pearl</card>
+    <card qty="1" id="5f6927e1-c580-483a-8e2a-6e2deb74800e">Mox Jet</card>
+    <card qty="1" id="aced2c55-7543-4076-bcdd-36c4d649b8ae">Mox Emerald</card>
+    <card qty="1" id="924a24e7-91b8-4ceb-a136-7a765d98c994">Mystic Forge</card>
+    <card qty="1" id="73ac9f52-e6ff-4e6f-9733-fe24a5fb4b4e">Null Rod</card>
+    <card qty="1" id="842c3df8-43c9-4555-901c-67cdbfd26348">Sol Ring</card>
+    <card qty="1" id="e472d4f5-add4-4de3-8718-31a47a35277c">Thorn of Amethyst</card>
+    <card qty="1" id="316caa4e-a53a-460b-978c-5f0fba7bc549">Trinisphere</card>
+    <card qty="1" id="bd8fa327-dd41-4737-8f19-2cf5eb1f7cdd">Black Lotus</card>
+    <card qty="1" id="1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4">Chalice of the Void</card>
+    <card qty="1" id="7dce06ba-c1e1-45ec-82a7-fc10b0fa8870">God-Pharaoh's Statue</card>
+    <card qty="1" id="28ececd4-2a6d-49dd-bc52-4fdb1e0b1dba">Mana Crypt</card>
+    <card qty="2" id="57fb8472-b7ff-4d70-998f-7628eae979bd">Crucible of Worlds</card>
+    <card qty="3" id="c177f0e0-a1d3-4790-9e2c-bd5d2250603d">Sorcerous Spyglass</card>
+    <card qty="4" id="c8e5546c-7f46-4eb5-a330-384d68ee75b0">Sphere of Resistance</card>
+    <card qty="1" id="3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5">Karn, the Great Creator</card>
+    <card qty="1" id="e8f7a850-e049-48a0-95ac-afdac6e204e5">Strip Mine</card>
+    <card qty="1" id="64bc9b1d-5818-4d9e-b771-e49af4ff9a5c">The Tabernacle at Pendrell Vale</card>
+    <card qty="1" id="ad7ac9a5-340f-4509-826c-7b9416d47887">Tolarian Academy</card>
+    <card qty="1" id="529c38b3-7397-4dac-9859-acd9cd451c32">Bojuka Bog</card>
+    <card qty="1" id="31d2422a-bb7d-4cdd-9aac-e5a936a4be3b">Karakas</card>
+    <card qty="2" id="275471e3-ded1-40ac-91ef-369dce5764d9">Inventors' Fair</card>
+    <card qty="4" id="aac0c8df-f01d-4178-8d66-ee603f814d24">Mishra's Workshop</card>
+    <card qty="4" id="12f8071c-8955-4aa2-889c-6043df047223">Ghost Quarter</card>
+    <card qty="4" id="6aa14e39-2550-4fbe-9fd3-a5923a7f78c8">Wasteland</card>
+    <card qty="4" id="d34b1faa-8a1c-4bdd-9cf3-8b51c018f353">Ancient Tomb</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="33672990-4860-4aa6-ac1b-f9da66f5da59">Wurmcoil Engine</card>
+    <card qty="1" id="27d838a1-2739-45f7-a856-6202334fa76a">Ensnaring Bridge</card>
+    <card qty="1" id="6aa85af8-15f5-4620-8aea-0b45c28372ed">Snow-Covered Swamp</card>
+    <card qty="1" id="0f9668ba-d26d-4484-b4b8-6fb91fbfb617">Tormod's Crypt</card>
+    <card qty="1" id="5272436e-74f0-44c4-a291-ea8ebc3f1525">Walking Ballista</card>
+    <card qty="1" id="94f89714-3b26-46a2-b9a8-3e664f391cd9">Mycosynth Lattice</card>
+    <card qty="2" id="0a135e09-b534-4836-9a10-3a9a4a9f8c53">Grafdigger's Cage</card>
+    <card qty="3" id="73ac9f52-e6ff-4e6f-9733-fe24a5fb4b4e">Null Rod</card>
+    <card qty="4" id="37dfe8b8-b39e-4e70-9e5b-be42c93b4f70">Leyline of the Void</card>
+  </section>
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

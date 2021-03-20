@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="12" id="acf7b664-3e75-4018-81f6-2a14ab59f258">Island</card>
+    <card qty="1" id="fef86cfe-6e4a-4ff7-bb6d-914d8c1e0782">Angel of Finality</card>
+    <card qty="13" id="a9891b7b-fc52-470c-9f74-292ae665f378">Plains</card>
+    <card qty="1" id="c175b50d-81cc-45dd-854f-7f8ca31cffa4">Angel of Serenity</card>
+    <card qty="1" id="ba946cfb-a729-406b-be35-0defaf95283e">Arcane Artisan</card>
+    <card qty="1" id="0ac3fb08-741a-49e5-9fae-b26819677d24">Brago, King Eternal</card>
+    <card qty="1" id="552e8660-4f52-4ce6-aeee-306676746695">Burnished Hart</card>
+    <card qty="1" id="edab81f0-dd20-45bd-946d-75b682e1d3d0">Cloudblazer</card>
+    <card qty="1" id="6dfaa74a-0ef0-44bb-b8b5-6d121278b5a2">Cloudgoat Ranger</card>
+    <card qty="1" id="a2a0f40e-12de-4ee8-8b1e-6989dbfa9a4d">Empyrean Eagle</card>
+    <card qty="1" id="552912bf-4085-49ad-902f-5c41540df97a">Ethereal Valkyrie</card>
+    <card qty="1" id="ccc00c82-7c2a-4699-8058-e57f690ece96">Evangel of Heliod</card>
+    <card qty="1" id="edacc6f3-e105-4648-8dcc-a5c54c7ad043">Flickerwisp</card>
+    <card qty="1" id="4d09ef1d-3552-43a3-91c7-0d14c0f06780">Geist-Honored Monk</card>
+    <card qty="1" id="80be2fea-3fe6-477e-bcb8-63f441d6cfc1">Goldnight Commander</card>
+    <card qty="1" id="4458c16c-b71d-481d-863b-f2e3b1320178">Hero of Bretagard</card>
+    <card qty="1" id="7f58d798-9b99-45a9-9015-f689145018a8">Inspired Sphinx</card>
+    <card qty="1" id="6226b346-ca4c-45ea-871c-1a8fb7f9be0d">Kor Cartographer</card>
+    <card qty="1" id="0abc2aa2-b505-4e6b-8a37-4e818a8561bc">Meteor Golem</card>
+    <card qty="1" id="8f868751-dd1a-4beb-b3cc-c4a88980299b">Mist Raven</card>
+    <card qty="1" id="570afcb8-8cf0-4946-863a-be19c0a5e110">Mistmeadow Witch</card>
+    <card qty="1" id="345fd005-5052-4500-a260-3649500e21f4">Mulldrifter</card>
+    <card qty="1" id="3dbdd0bc-92d7-49ae-b7fc-b2d1f0670bd8">Restoration Angel</card>
+    <card qty="1" id="1f5497d0-0765-4619-a218-b6a8709810cb">Sage of the Beyond</card>
+    <card qty="1" id="498743ce-0ca5-488a-ae5e-d348b274bf3b">Sea Gate Oracle</card>
+    <card qty="1" id="50bc0f5b-7421-45b9-af85-86dd9821b7d8">Soulherder</card>
+    <card qty="1" id="f53f39e9-f07e-444f-8420-4545e56253e5">Stoic Farmer</card>
+    <card qty="1" id="b7e857aa-955e-4afa-9afe-a572fe27765a">Sun Titan</card>
+    <card qty="1" id="1c9e7fdc-676f-4901-83ff-bfea3a96d937">Surtland Elementalist</card>
+    <card qty="1" id="7fc3c21f-99d5-48dc-b36e-8db597da44bf">Thunderclap Wyvern</card>
+    <card qty="1" id="28fced7f-3078-4a54-8f76-0ef14c732e97">Vega, the Watcher</card>
+    <card qty="1" id="2561dc8e-1ea6-43f3-8cf1-afd7ec9a2191">Wall of Omens</card>
+    <card qty="1" id="23dcb171-884d-480f-ba05-2a7c9cde5cfd">Whirler Rogue</card>
+    <card qty="1" id="27855a38-a682-4f97-ad22-ac625e86faec">Behold the Multiverse</card>
+    <card qty="1" id="933c4a54-5c3a-496b-aa35-edf791155d8d">Cosmic Intervention</card>
+    <card qty="1" id="4ba9f15f-00d2-4797-9228-91b320e85705">Eerie Interlude</card>
+    <card qty="1" id="485ab561-9c2a-4f99-9317-8726bcdae364">Ghostly Flicker</card>
+    <card qty="1" id="2fb38f5b-a2c2-4b06-8c9c-9615475a43e7">Iron Verdict</card>
+    <card qty="1" id="ee164002-0416-4232-9484-2e15d8afd6d4">Momentary Blink</card>
+    <card qty="1" id="0034ed95-a296-44c1-a084-e03c57c1865f">Return to Dust</card>
+    <card qty="1" id="877a1bb9-5eae-453a-bec0-a9de20ea6815">Saw It Coming</card>
+    <card qty="1" id="dc19002c-e87d-45a1-84f2-f953587ddfd1">Synthetic Destiny</card>
+    <card qty="1" id="3fc98aff-edc0-4f78-ae4f-e08735c9e512">Warhorn Blast</card>
+    <card qty="1" id="990a7ec3-0ace-4245-a374-690d11a827ae">Cleansing Nova</card>
+    <card qty="1" id="227c0e9c-4f8f-4402-bdd1-dd744dc49927">Curse of the Swine</card>
+    <card qty="1" id="ae79df80-b1f0-4035-807d-0364208dbd75">Migratory Route</card>
+    <card qty="1" id="2c2cfcd7-b43a-4dad-a033-e661f55ceecd">Ravenform</card>
+    <card qty="1" id="7238c46e-6338-4aca-96f2-934c44c8cc36">Spectral Deluge</card>
+    <card qty="1" id="2345331c-a14f-4b4b-a9a4-88c5beb48242">Storm Herd</card>
+    <card qty="1" id="c286a74c-3714-4190-8322-84b161debe39">Tales of the Ancestors</card>
+    <card qty="1" id="0846f753-0d53-4bdd-be0e-19d989db5d5f">Windfall</card>
+    <card qty="1" id="f0b666de-5a89-417d-a946-00aafd1f1979">Arcane Signet</card>
+    <card qty="1" id="1b6ed82a-42a9-4024-bcad-7c2899882767">Azorius Signet</card>
+    <card qty="1" id="443c9ff1-8b30-4c19-9011-17de40659442">Commander's Sphere</card>
+    <card qty="1" id="cdc41213-3cc2-4de5-9b33-56623b65918d">Marble Diamond</card>
+    <card qty="1" id="ecbe852d-4538-41dd-bfce-a134a7bc3022">Mind Stone</card>
+    <card qty="1" id="b079e285-8431-46aa-bb04-70cac586ed0b">Replicating Ring</card>
+    <card qty="1" id="3a5a5a85-b03d-4ab9-9d31-9c85a5e4c1f0">Sky Diamond</card>
+    <card qty="1" id="0afa0e33-4804-4b00-b625-c2d6b61090fc">Sol Ring</card>
+    <card qty="1" id="bf700ec0-1fd3-4971-ab03-51365dc8f4f4">Swiftfoot Boots</card>
+    <card qty="1" id="0858ab5a-930c-44f0-9621-4dd634cf39c6">Banishing Light</card>
+    <card qty="1" id="76e4dd1d-b0bd-4fcf-b5c5-fe203af2fe8e">Day of the Dragons</card>
+    <card qty="1" id="1132a103-3dd7-4a17-afdc-27200b8cfbfc">Ghostly Prison</card>
+    <card qty="1" id="2077d11c-22b6-43ff-a894-4f8c2c2acafc">Marshal's Anthem</card>
+    <card qty="1" id="19312f53-5b9d-4e76-91e8-65f444bb68c9">Niko Defies Destiny</card>
+    <card qty="1" id="caccc497-5312-4a28-8582-aa95bcbfb436">Azorius Chancery</card>
+    <card qty="1" id="569b53fb-8776-4301-9ed6-f7eabb08cebf">Azorius Guildgate</card>
+    <card qty="1" id="74c5bc49-318c-44fc-b276-f6d036fdf054">Command Tower</card>
+    <card qty="1" id="03d864b7-8049-4ef7-ae50-ad28df7d87d9">Cryptic Caves</card>
+    <card qty="1" id="2627acb7-57d9-4429-9bc5-e7dd444d8d48">Gates of Istfell</card>
+    <card qty="1" id="9de5fadd-4559-479f-b45d-abe792f0f6e5">Glacial Floodplain</card>
+    <card qty="1" id="e283db9e-6a51-4b28-9f6c-0c040a9d6d8c">Meandering River</card>
+    <card qty="1" id="4544593c-c155-436f-a74b-eea3e854ad1d">Myriad Landscape</card>
+    <card qty="1" id="677f7ab0-27eb-4dcd-a38d-2a880731eaa3">Opal Palace</card>
+    <card qty="1" id="b474bfdd-e0b2-4b96-b8eb-84ced9ac5a06">Sejiri Refuge</card>
+    <card qty="1" id="be3a2d81-adda-49f7-980f-64bd567f89b6">Tranquil Cove</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <section name="Command Zone" shared="False">
+    <card qty="1" id="1c8c41dd-8551-4ce8-a9be-9b9f65718852">Ranar the Ever-Watchful</card>
+  </section>
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

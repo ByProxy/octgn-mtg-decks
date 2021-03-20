@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="1" id="4b68bc46-5591-44dd-becc-eca154066925">Abomination of Llanowar</card>
+    <card qty="1" id="57348f93-8764-4b1a-b02e-4e7881337fa2">Elderfang Ritualist</card>
+    <card qty="1" id="320d0a4c-c556-4468-b934-bfdf17961a53">Farhaven Elf</card>
+    <card qty="1" id="89b47813-9b6c-4e8f-9212-fe37fb50e405">Eyeblight Cullers</card>
+    <card qty="1" id="7d113fa6-59b1-4f12-b81b-4b32affb9452">End-Raze Forerunners</card>
+    <card qty="1" id="2eb0f12b-9199-440d-9b85-831a5aec5dae">Dwynen, Gilt-Leaf Daen</card>
+    <card qty="1" id="3eaf48c9-09bc-4d81-a3a5-432219a71754">Canopy Tactician</card>
+    <card qty="1" id="b7e90355-80ca-49db-914c-62b3a7bd4726">Beast Whisperer</card>
+    <card qty="1" id="7e4723bc-20ce-4f43-9dcf-db44d4d1b224">Elvish Rejuvenator</card>
+    <card qty="1" id="4d3fffa5-50ec-4502-9f03-bd9618f1771e">Elvish Archdruid</card>
+    <card qty="1" id="c2e6e8a1-2e69-43de-964d-72f722439d4a">Cultivator of Blades</card>
+    <card qty="1" id="ed7a0227-ac70-40fb-8198-a55eacf913fa">Elvish Mystic</card>
+    <card qty="1" id="c4a15c15-27c2-4ede-9ecd-a28ec7cbd3fb">Ambition's Cost</card>
+    <card qty="1" id="26413356-327c-494b-a895-0a0ddd466242">Golgari Findbroker</card>
+    <card qty="1" id="8fc37772-7052-46a9-a34e-f982331595a3">Harald, King of Skemfar</card>
+    <card qty="1" id="a93e9d33-0c5d-4890-a1aa-84f59af9d4fb">Imperious Perfect</card>
+    <card qty="1" id="71c4346a-a330-49ca-909e-08fd8aec7b3f">Jagged-Scar Archers</card>
+    <card qty="1" id="1a68615d-9808-479d-aa80-50651246954e">Jaspera Sentinel</card>
+    <card qty="1" id="407c1b95-dc0c-4154-a441-fe25537df45c">Llanowar Tribe</card>
+    <card qty="1" id="0849f67b-da5d-49f7-840f-f87f48518156">Lys Alana Huntmaster</card>
+    <card qty="1" id="58b3b63d-fabb-46ad-aabe-1e9fb34b4f8c">Lys Alana Scarblade</card>
+    <card qty="1" id="aad61d99-5c8e-47b7-ab1a-e70905f59205">Marwyn, the Nurturer</card>
+    <card qty="1" id="b8cc3361-046c-4908-8b8d-a0502bfc173a">Masked Admirers</card>
+    <card qty="1" id="7bdb9bfe-5e56-429d-af23-7548532e2406">Miara, Thorn of the Glade</card>
+    <card qty="1" id="c4a15a09-cf68-411a-a18d-aaad00d308c9">Nullmage Shepherd</card>
+    <card qty="1" id="6ac36353-6bf7-46b1-85cb-87d389138d32">Numa, Joraga Chieftain</card>
+    <card qty="1" id="1677d49e-3d63-45bd-9849-01b1bdd95ad8">Poison-Tip Archer</card>
+    <card qty="1" id="1c4a25f0-2929-4404-9ce5-bcd4715f90a5">Reclamation Sage</card>
+    <card qty="1" id="85004079-f9fa-4a05-904d-a77782c4165c">Rhys the Exiled</card>
+    <card qty="1" id="886ef13a-4f9d-425b-a071-6366cdb637c8">Ruthless Winnower</card>
+    <card qty="1" id="da9705e2-40e5-4ec9-8aef-2eab28d5a66f">Shaman of the Pack</card>
+    <card qty="1" id="c204130f-0483-49ed-8512-03a74894702e">Skemfar Shadowsage</card>
+    <card qty="1" id="f406d477-720b-498c-9f45-1b687e555bcd">Springbloom Druid</card>
+    <card qty="1" id="085f1b89-857b-4e2b-b796-0b95e53322bd">Sylvan Messenger</card>
+    <card qty="1" id="38807f17-1cf2-4736-ad10-df6c8b1a9f55">Timberwatch Elf</card>
+    <card qty="1" id="f353281a-0e56-448f-b41a-beb3949c5f11">Twinblade Assassins</card>
+    <card qty="1" id="fccfa714-7fa0-4846-88c9-570f13683aa4">Voice of Many</card>
+    <card qty="1" id="d7a6315c-aa6f-4be1-a002-d7824bfad622">Voice of the Woods</card>
+    <card qty="1" id="5670ae47-befb-4aaf-a77a-d7dbd4d8dc08">Wirewood Channeler</card>
+    <card qty="1" id="70fd0439-294b-454c-b2af-e814b85f4590">Wolverine Riders</card>
+    <card qty="1" id="227746cb-8d9e-4f56-a19c-971a35f4cf20">Wood Elves</card>
+    <card qty="1" id="70479c44-da7c-48c7-8c6a-47210dc03277">Elven Ambush</card>
+    <card qty="1" id="7fb94456-5266-47db-b514-a0e17e34b771">Poison the Cup</card>
+    <card qty="1" id="36e2a569-ed40-48f5-b39c-749b491bc207">Putrefy</card>
+    <card qty="1" id="417f71d2-d7da-4279-8847-d27c67e9ea9d">Tergrid's Shadow</card>
+    <card qty="1" id="3185a67e-648c-48a8-9aad-180e1ca0f4ae">Bounty of Skemfar</card>
+    <card qty="1" id="e5a2a709-0273-48a3-874b-13aff4872b0a">Casualties of War</card>
+    <card qty="1" id="20602cb8-f925-4de0-ad4b-86d0f5514384">Elvish Promenade</card>
+    <card qty="1" id="00652c09-c50c-40da-8f0f-86b5cc3f6c26">Eyeblight Massacre</card>
+    <card qty="1" id="326b5fad-bb8d-4019-84a8-1a319a14962e">Harvest Season</card>
+    <card qty="1" id="c5b3d118-ba4b-4a93-92a2-cd763de49d29">Pact of the Serpent</card>
+    <card qty="1" id="470601b0-9598-487f-bb14-4bfec7ca6d61">Return Upon the Tide</card>
+    <card qty="1" id="734afb5b-3163-47fa-856f-8a85b9da22d3">Roots of Wisdom</card>
+    <card qty="1" id="f0b666de-5a89-417d-a946-00aafd1f1979">Arcane Signet</card>
+    <card qty="1" id="08ae371f-ce62-475f-89a2-1f8a17cf950f">Serpent's Soul-Jar</card>
+    <card qty="1" id="0afa0e33-4804-4b00-b625-c2d6b61090fc">Sol Ring</card>
+    <card qty="1" id="d93ee644-d7d7-48d8-a04b-fb479b74edb0">Binding the Old Gods</card>
+    <card qty="1" id="e6297586-8953-408e-a38c-2239d45807e1">Crown of Skemfar</card>
+    <card qty="1" id="7d5bbb02-a04e-4add-ae9a-67819cffdb3a">Elderfang Venom</card>
+    <card qty="1" id="b2e8a239-6d12-49e4-900a-968e0d53d83a">Moldervine Reclamation</card>
+    <card qty="1" id="c8397a00-42b4-4330-9f74-a3b2eb19a6ca">Pride of the Perfect</card>
+    <card qty="1" id="b870c742-e799-4276-bb3d-f2c288ce0db8">Prowess of the Fair</card>
+    <card qty="1" id="74c5bc49-318c-44fc-b276-f6d036fdf054">Command Tower</card>
+    <card qty="1" id="1e1bad7b-e102-4dff-b79a-fd755c2b6d49">Foul Orchard</card>
+    <card qty="1" id="7e6228ce-0d36-4c93-80e0-949ffb9fe15e">Golgari Guildgate</card>
+    <card qty="1" id="aee8e11f-6e73-4c8b-bd4e-3956ee18ac66">Golgari Rot Farm</card>
+    <card qty="1" id="ae7d3dbc-a3b9-459f-9337-67f9d9b7b563">Jungle Hollow</card>
+    <card qty="1" id="4544593c-c155-436f-a74b-eea3e854ad1d">Myriad Landscape</card>
+    <card qty="1" id="04f35c75-4ede-4c23-867b-58d367f75fc8">Path of Ancestry</card>
+    <card qty="1" id="82c2a0f7-0f53-4627-8be8-227fde331a69">Skemfar Elderhall</card>
+    <card qty="4" id="c318bae5-5d3f-4e91-adfe-13c182511ef7">Forest</card>
+    <card qty="4" id="f0ca4b9f-4ee6-4ad8-a95f-326ada9de3cd">Forest</card>
+    <card qty="4" id="52c21f91-6679-4adb-baf2-b06cf505150c">Forest</card>
+    <card qty="4" id="e2ef9b74-481b-424b-8e33-f0b910f66370">Forest</card>
+    <card qty="2" id="95a58ce4-e07f-4c9c-98ae-3173d6d63cc5">Swamp</card>
+    <card qty="4" id="26142ae3-5aa1-4b9b-989a-21c0e4e5089d">Swamp</card>
+    <card qty="4" id="a8594426-c965-4187-a72d-7582f21b0ea1">Swamp</card>
+    <card qty="3" id="ef5cb444-7b48-40c8-a4d9-3fee37429513">Swamp</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <section name="Command Zone" shared="False">
+    <card qty="1" id="547888c3-a9a6-4413-b29a-6bcd8a9279bf">Lathril, Blade of the Elves</card>
+  </section>
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="1">Agent of Treachery</card>
+    <card qty="2">Air Elemental</card>
+    <card qty="2">Aven Wind Mage</card>
+    <card qty="1">Brineborn Cutthroat</card>
+    <card qty="2">Cloudkin Seer</card>
+    <card qty="2">Cryptic Serpent</card>
+    <card qty="1">Dungeon Geists</card>
+    <card qty="2">Frost Lynx</card>
+    <card qty="1">Howling Golem</card>
+    <card qty="2">Moat Piranhas</card>
+    <card qty="2">Salvager of Secrets</card>
+    <card qty="1">Sphinx of Enlightenment</card>
+    <card qty="2">Warden of Evos Isle</card>
+    <card qty="2">Decision Paralysis</card>
+    <card qty="1">Dramatic Reversal</card>
+    <card qty="1">Engulf the Shore</card>
+    <card qty="2">Galestrike</card>
+    <card qty="1">Unsummon</card>
+    <card qty="1">Captivating Gyre</card>
+    <card qty="1">Rise from the Tides</card>
+    <card qty="1">River's Rebuke</card>
+    <card qty="2">Winged Words</card>
+    <card qty="1">Claustrophobia</card>
+    <card qty="26">Island</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

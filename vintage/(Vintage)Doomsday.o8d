@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="4" id="ea7edbaa-68c8-4a1c-ab5f-d096e74c0d01">Street Wraith</card>
+    <card qty="1" id="5f6927e1-c580-483a-8e2a-6e2deb74800e">Mox Jet</card>
+    <card qty="1" id="bd8fa327-dd41-4737-8f19-2cf5eb1f7cdd">Black Lotus</card>
+    <card qty="2" id="13d7e352-4d01-4947-a76f-f8a01dd876cc">Thassa's Oracle</card>
+    <card qty="1" id="ea1feac0-d3a7-45eb-9719-1cdaf51ea0b6">Mox Sapphire</card>
+    <card qty="1" id="4a08ca06-58db-4ce6-b490-be4bea8956a1">Sensei's Divining Top</card>
+    <card qty="1" id="f5d939e4-7c3e-45c1-9aeb-ff31a21fb2db">Gush</card>
+    <card qty="1" id="61e9c6df-1c84-4eab-9076-a4feb6347c10">Mental Misstep</card>
+    <card qty="1" id="7dd7dd7c-872d-44b6-8ce6-0b05c6f98e69">Mystical Tutor</card>
+    <card qty="1" id="9e1b4cec-68e0-4259-9be5-565d927017d9">Vampiric Tutor</card>
+    <card qty="1" id="e9be371c-c688-44ad-ab71-bd4c9f242d58">Force of Negation</card>
+    <card qty="1" id="01cd4184-93ce-4005-b6d1-140afa3dd429">Dig Through Time</card>
+    <card qty="1" id="3cd19bdf-64f1-4c59-920b-1165f3551928">Brainstorm</card>
+    <card qty="1" id="2398892d-28e9-4009-81ec-0d544af79d2b">Ancestral Recall</card>
+    <card qty="1" id="1d779f19-3068-4976-b96b-8f93d156900b">Demonic Consultation</card>
+    <card qty="2" id="f05e9a3e-8a35-4687-85cb-e31b3927a5e2">Daze</card>
+    <card qty="3" id="a5e85d69-2799-4c6e-9d20-aa6ac1d9c4e7">Flusterstorm</card>
+    <card qty="4" id="532e9a34-b908-44cf-9623-b946196c6276">Force of Will</card>
+    <card qty="4" id="48cb9467-657e-453f-afc8-1bf7121570ad">Dark Ritual</card>
+    <card qty="1" id="711d4d54-5520-4de8-9b93-79902ed8e562">Demonic Tutor</card>
+    <card qty="1" id="ed02eba7-f9ef-418d-9c8e-6e7d2bd3869d">Duress</card>
+    <card qty="1" id="995486ce-58bb-4753-a812-0ca73ef1a235">Gitaxian Probe</card>
+    <card qty="1" id="ba6b6fc5-5077-4812-b8e9-906783dbaf67">Ponder</card>
+    <card qty="1" id="54992fda-45a9-4ed1-b380-34d167feec90">Time Walk</card>
+    <card qty="4" id="dcc9dbfa-0043-47d2-acfe-f636841afc2c">Doomsday</card>
+    <card qty="4" id="1453f92e-df2d-4789-aa1b-a5b5c51567d4">Preordain</card>
+    <card qty="1" id="222cfbec-8839-43fa-95a0-2ea91b59515c">Necropotence</card>
+    <card qty="1" id="acf7b664-3e75-4018-81f6-2a14ab59f258">Island</card>
+    <card qty="2" id="d052d99b-b1ca-44da-8460-c022d041d665">Polluted Delta</card>
+    <card qty="2" id="327cf118-cc92-4073-85d0-94d2a0a6989a">Scalding Tarn</card>
+    <card qty="2" id="acc4115b-4bbb-4bb7-81c6-466130982a9c">Flooded Strand</card>
+    <card qty="3" id="6d14bd1a-068e-4338-8014-d5271cb2fe4d">Misty Rainforest</card>
+    <card qty="4" id="ff76ac86-8a8a-47fe-9388-8950ca3e26c3">Underground Sea</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="8980e292-1384-4662-aa72-bc4f6ca30d51">Opposition</card>
+    <card qty="1" id="81f93ac5-d149-4ccf-8b99-13ecf3190c29">Tasigur, the Golden Fang</card>
+    <card qty="1" id="acf7b664-3e75-4018-81f6-2a14ab59f258">Island</card>
+    <card qty="1" id="a260c1e2-8fc3-4745-bc17-97fcdf5242c3">Library of Alexandria</card>
+    <card qty="1" id="4f51140b-6254-431a-8810-94307bfdfbbe">Mindbreak Trap</card>
+    <card qty="2" id="b9a50516-a20f-4e6e-b4f2-0049b673f942">Fatal Push</card>
+    <card qty="4" id="c227437d-1fc7-4a00-ace5-80795adc51d3">Steel Sabotage</card>
+    <card qty="4" id="37dfe8b8-b39e-4e70-9e5b-be42c93b4f70">Leyline of the Void</card>
+  </section>
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
