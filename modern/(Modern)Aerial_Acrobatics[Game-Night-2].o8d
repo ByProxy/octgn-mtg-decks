@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
   <section name="Main" shared="False">
-    <card qty="1">Agent of Treachery</card>
-    <card qty="2">Air Elemental</card>
-    <card qty="2">Aven Wind Mage</card>
-    <card qty="1">Brineborn Cutthroat</card>
-    <card qty="2">Cloudkin Seer</card>
-    <card qty="2">Cryptic Serpent</card>
-    <card qty="1">Dungeon Geists</card>
-    <card qty="2">Frost Lynx</card>
-    <card qty="1">Howling Golem</card>
-    <card qty="2">Moat Piranhas</card>
-    <card qty="2">Salvager of Secrets</card>
-    <card qty="1">Sphinx of Enlightenment</card>
-    <card qty="2">Warden of Evos Isle</card>
-    <card qty="2">Decision Paralysis</card>
-    <card qty="1">Dramatic Reversal</card>
-    <card qty="1">Engulf the Shore</card>
-    <card qty="2">Galestrike</card>
-    <card qty="1">Unsummon</card>
-    <card qty="1">Captivating Gyre</card>
-    <card qty="1">Rise from the Tides</card>
-    <card qty="1">River's Rebuke</card>
-    <card qty="2">Winged Words</card>
-    <card qty="1">Claustrophobia</card>
-    <card qty="26">Island</card>
+    <card qty="2" id="e0d11beb-2066-4319-aa56-e63328219509">Air Elemental</card>
+    <card qty="1" id="0857765f-afd7-418a-a93b-c0bd1b1f037e">Brineborn Cutthroat</card>
+    <card qty="2" id="28911e7b-0435-4393-a651-dc6eb53c7d98">Aven Wind Mage</card>
+    <card qty="1" id="cc6686e6-4535-49be-b0b3-e76464656cd2">Agent of Treachery</card>
+    <card qty="2" id="998f8818-1463-4f4d-bae7-53f81cf07184">Cloudkin Seer</card>
+    <card qty="2" id="bad1b1ee-cb01-4f2c-993c-d88f75ebda19">Cryptic Serpent</card>
+    <card qty="1" id="d3c81fda-c23d-437c-85f0-62d7b492ea32">Dungeon Geists</card>
+    <card qty="2" id="dfcaeccc-fc8c-4a9e-80d5-b48da71d7ff1">Frost Lynx</card>
+    <card qty="1" id="5e635346-63e1-4e71-be1d-bd53afbaa037">Howling Golem</card>
+    <card qty="2" id="543b3f69-19be-494b-928f-e16b92560e35">Moat Piranhas</card>
+    <card qty="2" id="c0b5b645-c90d-43aa-996d-03a1d575bdd6">Salvager of Secrets</card>
+    <card qty="1" id="0faa9eea-fbf1-41f7-9def-1ec3d5134a53">Sphinx of Enlightenment</card>
+    <card qty="2" id="2316d281-21a4-460d-9062-f0737249484e">Warden of Evos Isle</card>
+    <card qty="2" id="02586a34-7242-448e-80b9-dd3de15ac3e9">Decision Paralysis</card>
+    <card qty="1" id="30de9083-8702-471c-92e7-5cf89936a208">Dramatic Reversal</card>
+    <card qty="1" id="22909767-a088-49ff-83be-37f967d1da3d">Engulf the Shore</card>
+    <card qty="2" id="b8907a45-0136-49f5-8f6a-285a77ac283e">Galestrike</card>
+    <card qty="1" id="7a960516-3864-4a7a-8117-d25dec0dd665">Unsummon</card>
+    <card qty="1" id="a2bd5c34-fa7e-4fa8-a5b1-c3aa928cc834">Captivating Gyre</card>
+    <card qty="1" id="6e099a6a-97c4-42cd-aca6-5e1a2da0d5e5">Rise from the Tides</card>
+    <card qty="1" id="4c54cdaa-d72f-4613-adaf-d4353703ef3e">River's Rebuke</card>
+    <card qty="2" id="ff765065-b160-49b6-99ac-cd695bd0d903">Winged Words</card>
+    <card qty="1" id="05846389-4ee3-4e41-a6dd-0809bfc299f8">Claustrophobia</card>
+    <card qty="26" id="acf7b664-3e75-4018-81f6-2a14ab59f258">Island</card>
   </section>
   <section name="Sideboard" shared="False" />
   <section name="Command Zone" shared="False" />
