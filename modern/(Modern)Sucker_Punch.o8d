@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="10" id="acf7b664-3e75-4018-81f6-2a14ab59f258">Island</card>
+    <card qty="10" id="53fb7b99-9e47-46a6-9c8a-88e28b5197f1">Mountain</card>
+    <card qty="3" id="f8952ef0-d81e-491e-a137-be08a74ed005">Nightbird's Clutches</card>
+    <card qty="1" id="c1e9c025-1cdb-4da8-8d28-14ad5efb512d">Glimpse of Freedom</card>
+    <card qty="3" id="d9859344-4efc-4b87-a3fb-147e496cee68">Mizzium Skin</card>
+    <card qty="1" id="37ee17a1-76ce-4ae8-9109-ba32457cbeec">Wee Dragonauts</card>
+    <card qty="2" id="116b3375-f937-4d53-afa2-0711d8e59379">Uncaged Fury</card>
+    <card qty="2" id="0e48f309-8e56-4741-a9ff-e899dafb333a">Titan's Strength</card>
+    <card qty="1" id="c9570734-5e9b-46ff-b606-9759b5195756">Radical Idea</card>
+    <card qty="4" id="771ddb6f-607c-487e-b64b-5c9ff0579183">Izzet Guildgate</card>
+    <card qty="4" id="5d7a0e26-8cd4-4f53-8922-93ca28b1879b">Nivix Cyclops</card>
+    <card qty="3" id="e854e6a3-8684-43fa-9560-ef4c3b62c935">Unleash Fury</card>
+    <card qty="4" id="8257c205-00cd-4d41-bd58-098575ea2343">Crash Through</card>
+    <card qty="4" id="bf5a0e1e-5239-41f3-a63f-d9303b1b01fc">Shock</card>
+    <card qty="2" id="7ef50ef6-0da4-4692-af10-0edb0fa1a580">Kiln Fiend</card>
+    <card qty="4" id="f4a3d06c-8059-4f73-8f7e-29aa004cd3d5">Niblis of Frost</card>
+    <card qty="2" id="38e17f4b-b5a8-468c-8cca-6e722cccdf6b">Charmbreaker Devils</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

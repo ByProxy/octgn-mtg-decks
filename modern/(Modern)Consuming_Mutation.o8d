@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="4" id="3f822331-315e-4297-bb69-f1069032c6c5">Fire // Ice</card>
+    <card qty="3" id="bacc2881-26b8-4199-9b7d-e12c75effe6e">Arena Athlete</card>
+    <card qty="4" id="d9275605-15a0-4db6-bd7d-66755138e8d7">Reckless Charge</card>
+    <card qty="2" id="cbd47a02-5a6e-4daa-9877-f65c8639c569">Flayer Husk</card>
+    <card qty="3" id="eb9983ce-8ca6-450a-9cac-5396ba8e1690">Rigging Runner</card>
+    <card qty="2" id="2c00f8bf-0088-44ad-b40b-26a2951a2428">One With the Wind</card>
+    <card qty="2" id="57cb012c-947c-4281-8619-1384acf6df54">Daring Saboteur</card>
+    <card qty="4" id="fc36bb2a-115d-4e24-a1e9-02b21773e945">Izzet Guildgate</card>
+    <card qty="2" id="253f9e43-5bc6-4f26-a8e9-773cd0ca3d02">Valduk, Keeper of the Flame</card>
+    <card qty="4" id="460fa161-362f-406d-9149-d412bc51836c">Champion of the Flame</card>
+    <card qty="4" id="43c6db4e-cc37-4473-b0f5-48d8a0b82f33">Lightning Stormkin</card>
+    <card qty="4" id="d529d230-89b0-453b-987b-a47e15bc3830">Consuming Fervor</card>
+    <card qty="4" id="da66b93a-11a6-4861-a775-d309b7adc461">Unstable Mutation</card>
+    <card qty="11" id="53fb7b99-9e47-46a6-9c8a-88e28b5197f1">Mountain</card>
+    <card qty="7" id="acf7b664-3e75-4018-81f6-2a14ab59f258">Island</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

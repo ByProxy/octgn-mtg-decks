@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6c8d2e8-7cd8-11dd-8f94-e62b56d89593">
+  <section name="Main" shared="False">
+    <card qty="9" id="a9891b7b-fc52-470c-9f74-292ae665f378">Plains</card>
+    <card qty="1" id="44f3090b-917b-4122-b522-27c30dca8e69">Tenth District Legionnaire</card>
+    <card qty="10" id="53fb7b99-9e47-46a6-9c8a-88e28b5197f1">Mountain</card>
+    <card qty="1" id="2b960f72-b4b3-4a49-b95c-7bc55d29ee7d">Conviction</card>
+    <card qty="4" id="73d295ac-3c83-47db-a324-aa4907bcefdd">Akroan Crusader</card>
+    <card qty="3" id="c04b85e7-a401-42d5-9629-8d4b8c8a46b0">Blow Your House Down</card>
+    <card qty="1" id="96d22985-4354-4015-bd74-0ddf4f0cdf17">Phalanx Leader</card>
+    <card qty="1" id="642d9a5c-5697-4747-adce-5a71bcf1c086">Fabled Hero</card>
+    <card qty="3" id="63cb977e-bd42-43b1-83d1-124e7a413aca">Anax and Cymede</card>
+    <card qty="2" id="5f114a10-0b00-4f3a-bd73-d4c791fbf4d5">Phalanx Tactics</card>
+    <card qty="3" id="9854e673-1816-4a76-b9db-bb399ac7489f">Hero of the Nyxborn</card>
+    <card qty="2" id="90c2a3da-2458-4921-8574-9eb9d5925ae8">Escape Velocity</card>
+    <card qty="2" id="1a50984b-5bf5-4432-a149-96492d1683de">Shelter</card>
+    <card qty="2" id="b8754d66-facb-432e-a6c2-91430a6dec94">Satyr Hoplite</card>
+    <card qty="4" id="62512962-8d98-4e18-a910-39abd72229ce">Boros Guildgate</card>
+    <card qty="4" id="b8fed52c-e84e-41c9-b683-d8b26fa03c5f">Shock</card>
+    <card qty="4" id="39ec83fa-5cb4-4633-8827-36d874a2d2e7">Defiant Strike</card>
+    <card qty="2" id="6a8aaf9c-9aa5-44db-9610-402389a3ddc5">Tandem Tactics</card>
+    <card qty="2" id="8d09b2d9-b944-480b-93f9-76fc9bc319ce">Cartouche of Zeal</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <section name="Command Zone" shared="False" />
+  <section name="Planes/Schemes" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
